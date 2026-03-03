@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m currently working on - TherapyCRM<br>🌱 I’m currently learning - Dart<br>⚡ Fun fact - i'm smart, but too lazy
+🔭 I’m currently working on - <br>🌱 I’m currently learning - C<br>⚡ Fun fact - i'm smart, but too lazy
 
 
 # 💻 Tech Stack:
